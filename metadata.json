@@ -1,0 +1,8 @@
+{
+  "name": "SIERA BEACH HOTEL",
+  "description": "Premium boutique coastal stay in Rushikonda, Visakhapatnam, Andhra Pradesh, India. Experience serene ocean views, modern suites, and refined seaside hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
